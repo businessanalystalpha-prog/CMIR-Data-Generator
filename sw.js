@@ -1,6 +1,6 @@
 const CACHE_NAME = 'cmir-app-v2';
 const assetsToCache = [
-  'Main.html',
+  'index.html',
   'frontend/js/main.js',
   'frontend/css/main.css',
   'logo.png'
