@@ -1,9 +1,9 @@
 const CACHE_NAME = 'cmir-app-v2';
 const assetsToCache = [
-  'index.html',
-  'frontend/js/main.js',
-  'frontend/css/main.css',
-  'logo.png'
+  'CMIR-Data-Generator/index.html',
+  'CMIR-Data-Generator/frontend/js/main.js',
+  'CMIR-Data-Generator/frontend/css/main.css',
+  'CMIR-Data-Generator/logo.png'
 ];
 
 self.addEventListener('install', (event) => {
