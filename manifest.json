@@ -1,7 +1,7 @@
 {
   "name": "CMIR Data Generator",
   "short_name": "CMIR App",
-  "start_url": "index.html",
+  "start_url": "CMIR-Data-Generator/index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
